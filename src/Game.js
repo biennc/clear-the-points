@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Point from './Point';
+import Point from './components/Point';
 import './styles.css';
 
 const TOTAL_POINTS = 10;
